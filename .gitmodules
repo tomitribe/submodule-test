@@ -1,0 +1,3 @@
+[submodule "japan-jug"]
+	path = japan-jug
+	url = git@github.com:tomitribe/jjugccc2019.git
